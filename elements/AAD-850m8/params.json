@@ -18,7 +18,7 @@
         },
         "ABk": {
             "caption": "Viewers",
-            "doc": "Viewers may view a whiteboard, but may not edit or clear the board. Note that roles are optional.",
+            "doc": "Viewers may view a whiteboard, but may not edit or clear the board. The inputed data for this field must be a list of user emails (texts). Note that roles are optional.",
             "editor": "DynamicValue",
             "is_list": true,
             "name": "viewers",
@@ -28,7 +28,7 @@
         },
         "ABl": {
             "caption": "Editors",
-            "doc": "Editors may view and edit whiteboards, but may not clear the board. Note that roles are optional.",
+            "doc": "Editors may view and edit whiteboards, but may not clear the board. The inputed data for this field must be a list of user emails (texts). Note that roles are optional.",
             "editor": "DynamicValue",
             "is_list": true,
             "name": "editors",
@@ -38,7 +38,7 @@
         },
         "ABm": {
             "caption": "Facilitators",
-            "doc": "Editors may view, edit and clear whiteboards. Note that roles are optional.",
+            "doc": "Editors may view, edit and clear whiteboards. The inputed data for this field must be a list of user emails (texts). Note that roles are optional.",
             "editor": "DynamicValue",
             "is_list": true,
             "name": "facilitators",

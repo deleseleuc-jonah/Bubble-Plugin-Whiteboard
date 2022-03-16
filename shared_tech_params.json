@@ -23,6 +23,10 @@
         "ABt": {
             "name": "github",
             "url": "//dd7tel2830j4w.cloudfront.net/f1647460139303x635411776396560500/github-svgrepo-com.svg"
+        },
+        "ABu": {
+            "name": "whiteboard",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1647468385528x490777678873850240/whiteboard.js"
         }
     },
     "dependencies": {
