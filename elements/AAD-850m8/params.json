@@ -1,0 +1,59 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 500,
+        "width": 500
+    },
+    "display": "Whiteboard",
+    "fields": {
+        "AAc": {
+            "caption": "Board Code",
+            "default_val": "",
+            "doc": "The board code is a required value that must be a unique code that is at least 15 characters long.",
+            "editor": "StaticText",
+            "long_text": false,
+            "name": "board_code",
+            "rank": 0
+        },
+        "ABk": {
+            "caption": "Viewers",
+            "doc": "Viewers may view a whiteboard, but may not edit or clear the board. Note that roles are optional.",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "viewers",
+            "optional": true,
+            "rank": 1,
+            "value": "text"
+        },
+        "ABl": {
+            "caption": "Editors",
+            "doc": "Editors may view and edit whiteboards, but may not clear the board. Note that roles are optional.",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "editors",
+            "optional": true,
+            "rank": 2,
+            "value": "text"
+        },
+        "ABm": {
+            "caption": "Facilitators",
+            "doc": "Editors may view, edit and clear whiteboards. Note that roles are optional.",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "facilitators",
+            "optional": true,
+            "rank": 3,
+            "value": "text"
+        }
+    },
+    "icon": "ion-qr-scanner",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "BoxShadow": true,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "media",
+        "3": "small business",
+        "4": "data (things)"
+    },
+    "description": "Collaborate with your team\n\nWhether your teams are co-located, distributed, or remote with Whiteboard Team you, will experience real-time teamwork on an online whiteboard.\n\nGet visual feedback\n\nIncrease productivity and efficiency by collaborating on a real-time online whiteboard. Whiteboard Team enables you to collaborate and communicate better.\n\nVisualize and explain your ideas\n\nWhiteboard Team provides an infinite zoom-able canvas with basic shapes and sticky notes to help you visually express and share your thoughts.\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1646758012414x536318831914062160/whiteboard-board-svgrepo-com.svg",
+    "license": "open_source",
+    "name": "Whiteboard",
+    "plugin_instructions": "Step 1) Create an account : https://www.whiteboard.team/\n\nStep 2) Head over to the <developers> section of the Dashboard, and click create an app. You will be prompted to choose a name for your app.\n\nStep 3) Write down your Client ID & Client Secret. Do not share your client secret with anyone.\n\nStep 4) Enter your Client ID and your Client secret in the appropriate boxes under the \"plugins\" section of your bubble app.\n\n\n\nREAD THE TERMS AND CONDITIONS:\n\nhttps://www.whiteboard.team/info/developer-terms\n"
+}

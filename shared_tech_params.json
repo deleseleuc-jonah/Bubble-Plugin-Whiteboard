@@ -1,0 +1,38 @@
+{
+    "assets": {
+        "ABo": {
+            "name": "wlogo",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1647458375771x672274875236648600/wlogo.png"
+        },
+        "ABp": {
+            "name": "logo",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1647458381536x351143958452743600/logo.png"
+        },
+        "ABq": {
+            "name": "icon",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1647458386233x188900989979915680/icon.png"
+        },
+        "ABr": {
+            "name": "open-graph-image",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1647458400488x241597399224160900/open_graph_image.png"
+        },
+        "ABs": {
+            "name": "linked-in",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1647459950202x239905794393393540/linkedin-svgrepo-com.svg"
+        },
+        "ABt": {
+            "name": "github",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1647460139303x635411776396560500/github-svgrepo-com.svg"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 2,
+        "use_jquery": true
+    },
+    "shared_keys": {
+        "ABi": {
+            "caption": "Client Id",
+            "type": "client_safe"
+        }
+    }
+}
